@@ -1,7 +1,8 @@
 # mac-env-setup
 
+## Introduction
 
-To setup your local mac environment for the bare minimum scenarios, please use
+To setup your local mac environment for the bare minimum scenarios, one may use
 
 https://github.com/arunabhdas/laptop
 
