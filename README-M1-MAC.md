@@ -37,6 +37,8 @@ You can then rerun your "rails" command.
   system
 * 3.0.3 (set by /Users/coder/repos/appliaison/bitbucketrepos/rndflo-io/.ruby-version)
 
+==> rbenv version
+3.0.3 (set by /Users/coder/repos/appliaison/bitbucketrepos/rndflo-io/.ruby-version)
 
 ## Links 
 https://stackoverflow.com/questions/10940736/rbenv-not-changing-ruby-version
