@@ -64,4 +64,7 @@ rbenv() {
 
 
 ## Links 
+    
+https://github.com/rbenv/rbenv/wiki/Why-rbenv%3F
+    
 https://stackoverflow.com/questions/10940736/rbenv-not-changing-ruby-version
