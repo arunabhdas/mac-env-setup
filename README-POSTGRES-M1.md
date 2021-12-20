@@ -1,4 +1,4 @@
-==> brew reinstall postgresql
+## brew reinstall postgresql
 ~~~
 ==> brew reinstall postgresql
 ==> Downloading https://ghcr.io/v2/homebrew/core/postgresql/manifests/14.1_1
@@ -27,7 +27,7 @@ Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
 ~~~
 
-==> brew postgresql-upgrade-database
+## brew postgresql-upgrade-database
 
 
 ```
