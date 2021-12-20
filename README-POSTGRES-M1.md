@@ -182,7 +182,7 @@ Running this script will delete the old cluster's data files:
 ==> Your postgresql 13 data remains at /opt/homebrew/var/postgres.old
 ```
 
-### ==> brew services restart postgresql
+### brew services restart postgresql
 
 ```
 ==> brew services restart postgresql
