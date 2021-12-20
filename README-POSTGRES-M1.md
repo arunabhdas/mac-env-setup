@@ -181,3 +181,12 @@ Running this script will delete the old cluster's data files:
 ==> Upgraded postgresql data from 13 to 14!
 ==> Your postgresql 13 data remains at /opt/homebrew/var/postgres.old
 ```
+
+### ==> brew services restart postgresql
+
+```
+==> brew services restart postgresql
+Stopping `postgresql`... (might take a while)
+==> Successfully stopped `postgresql` (label: homebrew.mxcl.postgresql)
+==> Successfully started `postgresql` (label: homebrew.mxcl.postgresql)
+```
