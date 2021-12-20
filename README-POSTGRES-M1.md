@@ -27,10 +27,10 @@ Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
 ~~~
 
-brew postgresql-upgrade-database
+==> brew postgresql-upgrade-database
 
 
-~~~
+```
 ==> brew postgresql-upgrade-database
 ==> brew install postgresql@13
 ==> Downloading https://ghcr.io/v2/homebrew/core/postgresql/13/manifests/13.5_1-1
@@ -180,4 +180,4 @@ Running this script will delete the old cluster's data files:
     ./delete_old_cluster.sh
 ==> Upgraded postgresql data from 13 to 14!
 ==> Your postgresql 13 data remains at /opt/homebrew/var/postgres.old
-~~~
+```
