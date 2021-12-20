@@ -1,3 +1,4 @@
+~~~
 ==> brew reinstall postgresql
 ==> Downloading https://ghcr.io/v2/homebrew/core/postgresql/manifests/14.1_1
 Already downloaded: /Users/coder/Library/Caches/Homebrew/downloads/34e850b9c47867f84334b48fe844f7a171369d777b5c118a4119297f7c215147--postgresql-14.1_1.bottle_manifest.json
@@ -23,3 +24,6 @@ Or, if you don't want/need a background service you can just run:
 ==> Running `brew cleanup postgresql`...
 Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+~~~
+
+brew postgresql-upgrade-database
