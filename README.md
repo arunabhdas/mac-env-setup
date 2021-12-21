@@ -1216,7 +1216,8 @@ https://pytorch.org/get-started/locally/
 
 ==> brew install postgresql
 ==> brew reinstall postgresql
-==> 
+==> brew postgresql-upgrade-database
+==> brew services restart postgresql
 
 
 ### 87) Install Arctype
