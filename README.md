@@ -1211,3 +1211,14 @@ jupyter notebook
 ### 86) Install Pytorch 
 
 https://pytorch.org/get-started/locally/
+
+## Instal Postgres
+
+==> brew install postgresql
+==> brew reinstall postgresql
+==> 
+
+
+### 87) Install Arctype
+
+Instal arctype from https://arctype.com/install/mac
