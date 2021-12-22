@@ -81,11 +81,9 @@ Download and install Twighlight theme :
 
 https://github.com/biasedbit/xcode-themes
 
-### 10) Alcatraz 
+### 10) Install gcc, make, clang
 
-Install Alcatraz using steps here :
-
-http://alcatraz.io/
+==> xcode-select --install
 
 ### 11) XVim
 
