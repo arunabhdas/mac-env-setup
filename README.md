@@ -2,9 +2,9 @@
 
 ## Introduction
 
-To setup your local mac environment for the bare minimum scenarios, one may use
+To perform a checklist configuration of your local dev environment, please use 
 
-https://github.com/arunabhdas/laptop
+https://github.com/arunabhdas/cavabien
 
 
 ### 0) Change shell to bash
